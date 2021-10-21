@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(6, 43, 73);
+}
+
+form {
+    display: grid;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+h3 {
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+    color:rgb(182, 214, 240)
+}
